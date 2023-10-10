@@ -158,7 +158,7 @@
         <div class="p-4 flex flex-row justify-between">
             <div class="w-1/4">
                 <NuxtLink to="/" class="flex flex-col">
-                    <img src="../assets/images/footer-logo.svg" class="h-12 self-start" alt="logo" title="Go Home" />
+                    <img src="/assets/images/footer-logo.svg" class="h-12 self-start" alt="logo" title="Go Home" />
                     <p class="font-normal text-line-base text-[12px] italic">Building the future of Urban Logistics</p>
                 </NuxtLink>
             </div>
