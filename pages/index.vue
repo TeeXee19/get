@@ -162,14 +162,20 @@
                     <p class="font-normal text-line-base text-[12px] italic">Building the future of Urban Logistics</p>
                 </NuxtLink>
             </div>
-            <div class="flex flex-row gap-4 items-center">
-                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base">
-                    <img src="/assets/images/appstore-icon.svg" class="h-6 mr-2" alt="logo" title="Go Home" />
-                    App Store
+            <div class="flex flex-row gap-4 items-center justify-center">
+                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base items-center">
+                    <img src="/assets/images/appstore-icon.svg" class="h-8 mr-2" alt="logo" title="Go Home" />
+                    <p class="flex flex-col">
+                        App Store
+                        <span class="font-rhd text-[10px]">Coming soon</span>
+                    </p> 
                 </NuxtLink>
-                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base">
-                    <img src="/assets/images/playstore-icon.svg" class="h-6 mr-2" alt="logo" title="Go Home" />
-                    Play Store
+                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base items-center">
+                    <img src="/assets/images/playstore-icon.svg" class="h-8 mr-2" alt="logo" title="Go Home" />
+                    <p class="flex flex-col">
+                        Play Store
+                        <span class="font-rhd text-[10px]">Coming soon</span>
+                    </p> 
                 </NuxtLink>
             </div>
         </div>
