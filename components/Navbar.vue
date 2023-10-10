@@ -27,7 +27,7 @@
                     <NuxtLink to="/business" class="border rounded-lg border-black-700 block cursor-pointer text-sm lg:text-base pb-2 p-2">
                         Business
                     </NuxtLink>
-                    <NuxtLink to="/track" class="border rounded-lg border-black-700 block cursor-pointer text-sm lg:text-base pb-2 p-2">
+                    <NuxtLink to="/tracking" class="border rounded-lg border-black-700 block cursor-pointer text-sm lg:text-base pb-2 p-2">
                         Track
                     </NuxtLink>
                     <NuxtLink to="/report" class="border rounded-lg border-black-700 block cursor-pointer text-sm lg:text-base pb-2 p-2">
