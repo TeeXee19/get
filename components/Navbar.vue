@@ -3,7 +3,7 @@
         <div class="flex gap-8 items-center justify-between flex-wrap p-2 pt-0 pb-0 max-w-7xl mx-auto">
     
             <NuxtLink to="/" class="flex items-center flex-no-shrink">
-                <img src="../assets/images/Logo.svg" class="h-6" alt="logo" title="Go Home" />
+                <img src="/assets/images/Logo.svg" class="h-6" alt="logo" title="Go Home" />
             </NuxtLink>
     
             <div class="block md:hidden">
