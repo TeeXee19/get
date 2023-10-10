@@ -1,0 +1,55 @@
+.bg-primary {
+  background-color: #131319;
+}
+
+.btn-primary {
+  display: flex;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 6px;
+  background: var(--Secondary-color, #d82e2e);
+  /* Sec button shadow */
+  box-shadow: 0px 4px 4px 0px rgba(216, 46, 46, 0.1);
+}
+
+.input-primary{
+    border-radius: 6px;
+    border: 1px solid var(--Gray-20, #CBD5E1);
+    background: var(--color-neutral-white, #FFF);
+}
+
+.hero{
+  background-image: url(../assets/images/hero-img.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  height: 621px;
+  background-position-y: top;
+  width: 100%;
+}
+
+.parcel{
+  background-image: url(../images/parcel.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.hirecar{
+  background-image: url(../images/hire-a-car.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.clash {
+  font-family: 'Clash Display', sans-serif;
+}
+
+.partner-bg{
+  background: linear-gradient(90deg, #F3E7E9 0%, #E3EEFF 100%);
+}
+
+.footer-bg{
+  background: #FFF5F4;
+}
