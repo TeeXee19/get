@@ -81,24 +81,24 @@
 </section>
 <section class="py-6 mx-4">
     <div class="bg-line-base rounded-[32px] flex flex-row justify-between p-6">
-        <div class="w-1/4 p-4 h-fit self-end">
+        <div class="w-1/4 p-4 h-fit">
             <h1 class="clash font-extrabold text-5xl text-white">Our Services</h1>
         </div>
         <div class="w-2/4 grid grid-cols-2 gap-4">
             <div class="bg-white rounded-[40px] px-10 py-12">
-                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">Parcel Delivery</h4>
+                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">GET Parcel Delivery</h4>
                 <button class="bg-primary-theme btn px-8 py-3 rounded-[12px] text-white mt-8 w-[75%]" type="button">Learn more</button>
             </div>
             <div class="bg-white rounded-[40px] px-10 py-12">
-                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">Food Delivery</h4>
+                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">GET Dispatch</h4>
                 <button class="bg-primary-theme btn px-8 py-3 rounded-[12px] text-white mt-8 w-[75%]" type="button">Learn more</button>
             </div>
             <div class="bg-white rounded-[40px] px-10 py-12">
-                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">Parcel Delivery</h4>
+                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">GET Haulage</h4>
                 <button class="bg-primary-theme btn px-8 py-3 rounded-[12px] text-white mt-8 w-[75%]" type="button">Learn more</button>
             </div>
             <div class="bg-white rounded-[40px] px-10 py-12">
-                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">Parcel Delivery</h4>
+                <h4 class="clash font-bold text-[24px] w-1/4 text-textMain-base">GET Cars</h4>
                 <button class="bg-primary-theme btn px-8 py-3 rounded-[12px] text-white mt-8 w-[75%]" type="button">Learn more</button>
             </div>
         </div>
@@ -111,7 +111,7 @@
             <h1 class="clash font-extrabold text-5xl text-primary-theme w-[71%]">We want to partner with you</h1>
             <div class="self-end">
                 <h1 class="clash font-extrabold text-4xl text-line-base ">Do you own a fleet of dispatch carriers?</h1>
-                <p class="text-sm"> Lorem ipsum dolor sit amet consectetur. Pellentesque turpis volutpat sagittis nunc egestas tellus nibh sed praesent. Lectus sed mattis pharetra sit sapien at condimentum. </p>
+                <p class="text-sm">Let’s work together. We can properly manage your cars or bikes to maximize mutual benefit.</p>
             </div>
         </div>
         <div class="w-2/5 ">
@@ -158,25 +158,11 @@
         <div class="p-4 flex flex-row justify-between">
             <div class="w-1/4">
                 <NuxtLink to="/" class="flex flex-col">
-                    <img src="/assets/images/footer-logo.svg" class="h-12 self-start" alt="logo" title="Go Home" />
-                    <p class="font-normal text-line-base text-[12px] italic">Building the future of Urban Logistics</p>
+                    <img src="/assets/images/footer-logo.svg" class="h-12 self-start" alt="logo" title="Go Home" />  
                 </NuxtLink>
             </div>
             <div class="flex flex-row gap-4 items-center justify-center">
-                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base items-center">
-                    <img src="/assets/images/appstore-icon.svg" class="h-8 mr-2" alt="logo" title="Go Home" />
-                    <p class="flex flex-col">
-                        App Store
-                        <span class="font-rhd text-[10px]">Coming soon</span>
-                    </p> 
-                </NuxtLink>
-                <NuxtLink to="/" class="flex flex-row border-2 py-4 px-2 rounded-[12px] border-line-base items-center">
-                    <img src="/assets/images/playstore-icon.svg" class="h-8 mr-2" alt="logo" title="Go Home" />
-                    <p class="flex flex-col">
-                        Play Store
-                        <span class="font-rhd text-[10px]">Coming soon</span>
-                    </p> 
-                </NuxtLink>
+                 <p class="font-normal text-line-base text-[24px] text-">Building the future of Urban Logistics</p>
             </div>
         </div>
         <hr class="bg-line-base border-1 border-line-base">
