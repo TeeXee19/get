@@ -141,8 +141,8 @@
                 </div>
 
                 <div class="relative mt-[16px]  text-secondary-theme">
-                    <label for="location" class="text-textMain-base font-bold text-[12px]">Where is your fleet located? <span class="font-normal">City, Country</span></label>
-                    <input type="text" id="location" name="location" class="border border-stroke-base border-300 text-gray-900 font-ba italic text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-4" placeholder="Just type in the city and country">
+                    <label for="location" class="text-textMain-base font-bold text-[12px]">Where is your fleet located? <span class="font-normal text-red-500">*</span></label>
+                    <input type="text" id="location" name="location" class="border border-stroke-base border-300 text-gray-900 font-ba italic text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-4" placeholder="City, Country">
                 </div>
                 <button class="bg-primary-theme btn w-full px-8 py-3 rounded-[12px] mt-[16px] text-white font-ba">
                     Request pickup

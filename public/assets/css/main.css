@@ -53,3 +53,9 @@
 .footer-bg{
   background: #FFF5F4;
 }
+
+.busReg{
+  background: url(../images/Business-Registration.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
